@@ -1,0 +1,13 @@
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated files
+build/
+data/result_cam*.png
+
+# Local editor settings
+.vscode/
